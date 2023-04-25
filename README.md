@@ -1,8 +1,7 @@
 
 ![customcolor_logo_customcolor_background](https://user-images.githubusercontent.com/39034159/232519729-7171c44b-dc19-4e13-a643-209f7922423c.png)
 
-This is repository to track issues and feature requests for Right UI
-Helping teams deliver the right experience for all users.
+This is repository to track issues and feature requests for Right UI.
 
 ### [Submit an issue or feature request](https://github.com/wpickeral/rightui-support/issues)
 
