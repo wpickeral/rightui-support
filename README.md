@@ -12,7 +12,7 @@ Right UI is a web application that is designed to help teams build accessible co
 ## Features
 - Prebuilt unstyled component library with full keyboard accessibility. 
 - Color Theme with CSS variables
-- Create interative UI Kits
+- Create interactive UI Kits
 - Integrated Google Material Icons
 - Integrated Google Fonts
 - Integrated Contrast Checker
