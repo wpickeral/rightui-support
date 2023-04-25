@@ -3,7 +3,8 @@
 
 This is repository to track issues and feature requests for Right UI.
 
-### [Submit an issue or feature request](https://github.com/wpickeral/rightui-support/issues)
+- [Report an issue](https://github.com/wpickeral/rightui-support/issues)
+- [Submit an idea for a feature](https://github.com/wpickeral/rightui-support/discussions/categories/ideas)
 
 ## What is Right UI?
 Right UI is a web application that is designed to help teams build accessible components and UI kits. Right UI follows a component-driven development approach and aims to help improve the experience and efficiency of building, designing, and managing UI kits.
