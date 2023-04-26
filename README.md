@@ -24,8 +24,7 @@ prebuilt unstyled keyboard accessible components and tools that make it easy to 
 
 ## How does Right UI work?
 
-Users can select a prebuilt components and design it from the browser using the Right UI interface. Or add your own
-custom CSS. The application will generate the component code and CSS to add to your project.
+Users can select a keyboard accesible component and design it using the Right UI interface. The application will generate the component code and CSS to add to your project.
 
 ## How can I use Right UI?
 Right UI is currently in development and will be released soon.
