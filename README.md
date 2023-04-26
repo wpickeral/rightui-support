@@ -10,7 +10,7 @@ If you're experiencing issues with Right UI, or have ideas for new features, thi
 
 If you've encountered a bug, error, or any other problem while using Right UI, please report it by creating a new issue. To do so, follow these steps:
 
-1. Click on the "Issues" tab at the top of this page, or go to https://github.com/username/right-ui-support/issues.
+1. Click on the "Issues" tab at the top of this page, or go to [Right UI Issues](https://github.com/wpickeral/rightui-support/issues).
 2. Click on the green "New issue" button.
 3. Enter a descriptive title for your issue.
 4. Provide a detailed description of the problem you're experiencing.
@@ -23,7 +23,7 @@ Our team will review your issue and get back to you as soon as possible. Please 
 
 If you have ideas for new features or improvements for Right UI, please submit them as issues. To do so, follow these steps:
 
-1. Click on the "Issues" tab at the top of this page, or go to https://github.com/username/right-ui-support/issues.
+1. Click on the "Issues" tab at the top of this page, or go to [Right UI Issues](https://github.com/wpickeral/rightui-support/issues).
 2. Click on the green "New issue" button.
 3. Enter a descriptive title for your feature request.
 4. Provide a detailed description of your idea, including any relevant context or examples.
