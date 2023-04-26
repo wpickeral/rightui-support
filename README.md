@@ -1,5 +1,6 @@
+![customcolor_logo_customcolor_background](https://user-images.githubusercontent.com/39034159/234590550-d3c79bdf-38ae-4693-81d1-cb13a5c59938.png)
 
-![customcolor_logo_customcolor_background](https://user-images.githubusercontent.com/39034159/232519729-7171c44b-dc19-4e13-a643-209f7922423c.png)
+
 ## Welcome to Right UI Support!
 
 This repository is dedicated to supporting users of Right UI, a web application that helps teams build accessible components and UI kits. Right UI follows a component-driven development approach to improve the experience and efficiency of designing, building, and managing UI kits.
